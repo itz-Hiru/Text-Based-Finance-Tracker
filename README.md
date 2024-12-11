@@ -69,10 +69,10 @@ Ensure you have the following directory structure:
 finance_tracker/
 │
 ├── .gitignore
-├── finance_tracker.py
-├── requirements.txt
 ├── LICENSE
-└── README.md
+├── README.md
+├── requirements.txt
+└── text-based-finance-tracker.py
 ```
 
 ## 🌐 Features
